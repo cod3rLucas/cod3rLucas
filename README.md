@@ -1,5 +1,8 @@
-<div align="center">
-  <img src="https://private-user-images.githubusercontent.com/95265895/382468506-e78e13fd-8c84-4c21-9471-79d5374d4a15.gif" width="200" alt="Anonymous Logo"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
   
   <h1>Hi there 👋, I'm Lucas</h1>
   
@@ -57,39 +60,9 @@ me.say_hi()
 - 🤝 **Community Mentoring** - Active in webinars, CTFs, and WhatsApp communities
 - 🔧 **Tool Development** - Building custom tools for security testing and automation
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cod3rLucas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cod3rLucas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-### 🛡️ Tech Stack
+<p align="center"><img src="https://private-user-images.githubusercontent.com/95265895/382468506-e78e13fd-8c84-4c21-9471-79d5374d4a15.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzAyMTI2MTQsIm5iZiI6MTc3MDIxMjMxNCwicGF0aCI6Ii85NTI2NTg5NS8zODI0Njg1MDYtZTc4ZTEzZmQtOGM4NC00YzIxLTk0NzEtNzlkNTM3NGQ0YTE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjA0VDEzMzgzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdmODQxYjQwMjUzYjQyN2JkNDZmYWNmNTkwZWE2ODVhZTU3YmQ5ZjIyNGU5ZWRiNzVmNzc4NTgwZmUwMmMwZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5osZdtqfaM319I1Nc3oXYd2scLZdyl9jNYNNn9KDwpo" width="80%" height="auto"/></p>
 
 <img align="right" src="https://private-user-images.githubusercontent.com/168954568/352050706-9c826dd0-fd72-49ba-af60-e79f64344f59.gif" width="200" alt="Detective"/>
-
-**Offensive Security Tools:**
-```
-Burp Suite | OWASP ZAP | Nuclei | SQLMap | Metasploit | Cobalt Strike | BloodHound
-```
-
-**Programming & Scripting:**
-```
-Python | Bash | JavaScript | Go | PowerShell
-```
-
-**Platforms & Frameworks:**
-```
-Kali Linux | ParrotOS | HTB | TryHackMe | HackerOne | BugCrowd
-```
-
-**Other Tools:**
-```
-Docker | n8n | Git | MCP | Wireshark | Nmap | Burp Extensions
-```
 
 <br clear="right"/>
 
@@ -125,12 +98,6 @@ Docker | n8n | Git | MCP | Wireshark | Nmap | Burp Extensions
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-### 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
 
 ---
 
