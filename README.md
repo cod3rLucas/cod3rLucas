@@ -18,10 +18,10 @@ class OffensiveSecurity:
     def __init__(self):
         self.name = "Lucas"
         self.role = "Offensive Security Engineer @ Highdome"
-        self.location = "Peniche, Portugal"
+        self.location = "Portugal"
         self.expertise = ["Web App Security", "API Testing", "Mobile", "Infrastructure", "WiFi"]
         self.certifications = ["OSCP", "OSWP", "eWPTX", "CEH", "CWES", "CPTS"]
-        self.currently_learning = ["CRTO", "Active Directory", "Red Team Operations"]
+        self.currently_learning = ["CRTO", "AWS", "Red Team Operations"]
         
     def say_hi(self):
         print("Breaking things to make them more secure!")
