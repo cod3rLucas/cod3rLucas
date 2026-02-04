@@ -2,7 +2,6 @@
   <img src="https://private-user-images.githubusercontent.com/95265895/382468506-e78e13fd-8c84-4c21-9471-79d5374d4a15.gif" width="200" alt="Anonymous Logo"/>
   
   <h1>Hi there 👋, I'm Lucas</h1>
-  <h3>Offensive Security Engineer | Bug Hunter | Content Creator</h3>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&pause=1000&color=5D02F7&width=435&lines=Pentester%2C+Bug+Hunter+and+Security+Researcher!)](https://git.io/typing-svg)
 </div>
@@ -43,7 +42,7 @@ me.say_hi()
 ### 💼 Experience
 
 - **10+ years** in IT
-- **7+ years** focused on Cybersecurity
+- **6+ years** focused on Cybersecurity
 - Comprehensive penetration testing across:
   - Web Applications & APIs
   - Mobile Applications (iOS/Android)
