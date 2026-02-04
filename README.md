@@ -6,7 +6,7 @@
   
   <h1>Hi there 👋, I'm Lucas</h1>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&pause=1000&color=5D02F7&width=435&lines=Pentester%2C+and+Bug+Hunter!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&pause=1000&color=5D02F7&width=435&lines=Pentester+and+Bug+Hunter)](https://git.io/typing-svg)
 </div>
 
 ---
