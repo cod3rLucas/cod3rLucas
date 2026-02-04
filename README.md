@@ -37,8 +37,8 @@ me.say_hi()
 ### 🛠️ Current Focus
 
 - 🔴 **Red Teaming**: Expanding knowledge in Active Directory and infrastructure attacks
-- 🐛 **Bug Bounty**: Active on HackerOne, hunting vulnerabilities across multiple platforms
-- 🎓 **Education**: Building Highdome Cybersecurity Academy & "From Zero to Cyber Hero" program
+- 🐛 **Bug Bounty**: Active on YesWeHack, hunting vulnerabilities across multiple platforms
+- 🎓 **Education**: Built Highdome Cybersecurity Academy & "From Zero to Cyber Hero" program
 - 🚀 **Automation**: Creating offensive security workflows with n8n and AI integration
 - 📝 **CVE Research**: Discovering and reporting security vulnerabilities
 
