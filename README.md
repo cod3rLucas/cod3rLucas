@@ -1,9 +1,3 @@
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
-
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
-  
   <h1>Hi there 👋, I'm Lucas</h1>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&pause=1000&color=5D02F7&width=435&lines=Pentester+and+Bug+Hunter)](https://git.io/typing-svg)
@@ -82,9 +76,6 @@ me.say_hi()
   </a>
   <a href="https://yeswehack.com/hunters/lucaaasv" target="_blank">
     <img src="https://img.shields.io/badge/YesWeHack-%23FF6F61.svg?style=for-the-badge&logo=hackaday&logoColor=white" alt="YesWeHack"/>
-  </a>
-  <a href="https://app.hackthebox.com/users/823182" target="_blank">
-    <img src="https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox"/>
   </a>
 </p>
 
